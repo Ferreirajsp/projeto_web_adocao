@@ -1,0 +1,130 @@
+body{
+    background: #E97C36;
+ }
+
+.titulo1{
+    color: black;
+    text-align: center
+    }
+
+.pag{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+.formas{
+color: black;
+}
+
+.dinh{
+border: 3px solid rgb(245, 192, 94);
+width: 340px;
+margin-top: 30px;
+margin-left: 20px;
+height: 180px;
+background: white;
+}
+
+.card1{
+    border: 3px solid rgb(245, 192, 94);
+    border-radius: 5px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
+    width: 320px;
+    height: 200px;
+    background: white;
+    margin-left: 30px;
+}
+
+.titulo{
+    text-align: center;
+    color: black;
+}
+
+.texto{
+    text-align: justify;
+    color: black;
+    width: 300px;
+    margin-left: 10px;
+
+}
+
+.titulo1{
+    text-align: center;
+    color: black;
+}
+
+.texto1{
+    text-align: justify;
+    color: black;
+    width: 300px;
+    margin-left: 10px;
+
+}
+
+.titulo2{
+    text-align: center;
+    color: black;
+}
+
+.texto2{
+    text-align: justify;
+    color: black;
+    width: 300px;
+    margin-left: 10px;
+
+}
+
+
+.forms{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    height: 350px;
+    background-color: #ffffff;
+    border: 3px  solid rgb(245, 192, 94);
+    color: black;
+    text-align: center;
+    text-align: justify;
+    flex-direction: column;
+    padding: 20px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: 315px;
+}
+
+.rel1{
+    position: absolute;
+    top: 14%;
+    left: 35%;
+    height: 320px;
+    font-size: medium;
+    background-color: #ffffff;
+    border: 3px  solid rgb(245, 192, 94);
+    color: black;
+    text-align: center;
+    text-align: justify;
+    flex-direction: column;
+    padding: 20px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: 315px;
+}
+
+.rel2{
+    position: absolute;
+    top: 14%;
+    left: 65%;
+    height: 320px;
+    font-size: medium;
+    background-color: #ffffff;
+    border: 3px  solid rgb(245, 192, 94);
+    color: black;
+    text-align: center;
+    text-align: justify;
+    flex-direction: column;
+    padding: 20px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: 315px;
+}

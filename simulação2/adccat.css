@@ -1,0 +1,283 @@
+body{
+    background: #E97C36;
+ }
+
+.titulo1{
+color: black;
+text-align: center
+}
+
+/* PRIMEIRO CARD */
+.card{
+background-color: white;
+width: 230px;
+height: 420px;
+border-radius: 10px;
+box-shadow: 4px 4px 12px #aaaa;
+margin-left: 40px;
+}
+
+.card img{
+    width: 230px;
+    height: 215px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.card h2{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.card h3{
+font-size: .9rem;
+color: #2b2828aa;
+margin-left: 2px;
+text-align: justify;
+
+}
+
+/* -------------------------------------- */
+
+/* SEGUNDO CARD */
+.card1{
+background-color: white;
+width: 230px;
+height: 420px;
+border-radius: 10px;
+box-shadow: 4px 4px 12px #aaaa;
+margin-top: -420px;
+margin-left: 350px;
+}
+
+.img1{
+    width: 230px;
+    height: 235px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.t1{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.t2{
+font-size: .9rem;
+color: #2b2828aa;
+margin-left: 2px;
+text-align: justify;
+
+}
+
+/* --------------------------------------------- */
+
+/* TERCEIRO CARD */
+
+.card2{
+    background-color: white;
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px #aaaa;
+    margin-top: -420px;
+    margin-left: 630px;
+    }
+    
+    .img2{
+        width: 250px;
+        height: 255px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+    
+    .t3{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    
+    .t4{
+    font-size: .9rem;
+    color: #2b2828aa;
+    margin-left: 2px;
+    text-align: justify;
+    
+    }
+
+/* --------------------------------------------------------- */
+
+/* QUARTO CARD */
+
+.card3{
+    background-color: white;
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px #aaaa;
+    margin-top: -420px;
+    margin-left: 940px;
+    }
+    
+    .img3{
+        width: 250px;
+        height: 255px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+    
+    .t5{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    
+    .t6{
+    font-size: .9rem;
+    color: #2b2828aa;
+    margin-left: 2px;
+    text-align: justify;
+    
+    }
+
+
+
+/* ------------------------------------------------------------- */
+
+/* QUINTO CARD */
+
+.card4{
+    background-color: white;
+    width: 230px;
+    height: 420px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px #aaaa;
+    margin-top: 50px;
+    margin-left: 40px;
+    }
+    
+    .img4{
+        width: 230px;
+        height: 255px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+    
+    .t7{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    
+    .t8{
+    font-size: .9rem;
+    color: #2b2828aa;
+    margin-left: 2px;
+    text-align: justify;
+    
+    }
+
+
+
+/* ---------------------------------------------------------------- */
+
+/* SEXTO CARD */
+
+.card5{
+    background-color: white;
+    width: 230px;
+    height: 420px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px #aaaa;
+    margin-top: -420px;
+    margin-left: 350px;
+    }
+    
+    .img5{
+        width: 230px;
+        height: 255px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+    
+    .t9{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    
+    .t10{
+    font-size: .9rem;
+    color: #2b2828aa;
+    margin-left: 2px;
+    text-align: justify;
+    
+    }
+
+/* ------------------------------------------------------------------- */
+
+/* SETIMO CARD */
+
+.card6{
+    background-color: white;
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px #aaaa;
+    margin-top: -420px;
+    margin-left: 630px;
+    }
+    
+    .img6{
+        width: 250px;
+        height: 255px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+    
+    .t11{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    
+    .t12{
+    font-size: .9rem;
+    color: #2b2828aa;
+    margin-left: 2px;
+    text-align: justify;
+    
+    }
+
+
+
+/* ------------------------------------------------------------------------- */
+
+/* OITAVO CARD */
+
+.card7{
+    background-color: white;
+    width: 250px;
+    height: 420px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px #aaaa;
+    margin-top: -420px;
+    margin-left: 940px;
+    }
+    
+    .img7{
+        width: 250px;
+        height: 255px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+    
+    .t13{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    
+    .t14{
+    font-size: .9rem;
+    color: #2b2828aa;
+    margin-left: 2px;
+    text-align: justify;
+    
+    }
+
+/* -------------------------------------------------------------------------- */

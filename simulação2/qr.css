@@ -1,0 +1,16 @@
+.qr{
+    margin-left: 310px;
+    width: 600px;
+    height: 460px;
+}
+
+
+.d1{
+    border: 1px solid black;
+    border-radius: 4px;
+    color: black;
+    background: white;
+    margin-left: -330px;
+    font-size: x-large;
+}
+

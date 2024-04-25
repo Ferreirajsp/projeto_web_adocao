@@ -1,0 +1,101 @@
+body{
+    background: #E97C36;
+ }
+
+
+.titulo1{
+    color: black;
+    text-align: center;
+    
+    
+    }
+    
+    .dog1{
+        width: 205px;
+        height: 215px;
+        margin-left: 10px;
+    }
+
+    .dog2{
+        width: 205px;
+        height: 215px;
+        margin-left: 200px;
+        
+    }
+
+    .dog3{
+        width: 205px;
+        height: 215px;
+        margin-left: 830px;
+        margin-top: -230px;
+    }
+
+    .dog4{
+        width: 205px;
+        height: 215px;
+        margin-top: 50px;
+        margin-left: 10px;
+    }
+
+    .dog5{
+        width: 205px;
+        height: 215px;
+        margin-left: 419px;
+        margin-top: -220px;
+    }
+
+    .dog6{
+        width: 205px;
+        height: 215px;
+        margin-top: -220px;
+        margin-left: 830px;
+    }
+
+
+    .desc1{
+        color: black;
+        width: 180px;
+        text-align: justify;
+        margin-top: -470px;
+        margin-left: 225px;
+    }
+
+    .desc2{
+        color: black;
+        width: 180px;
+        text-align: justify;
+        margin-top: -200px;
+        margin-left: 635px;
+    }
+
+    .desc3{
+        color: black;
+        width: 180px;
+        text-align: justify;
+        margin-top: -220px;
+        margin-left: 1045px;
+    }
+
+    .desc4{
+        color: black;
+        width: 180px;
+        text-align: justify;
+        margin-top: 135px;
+        margin-left: 225px;
+    }
+
+    .desc5{
+        color: black;
+        width: 180px;
+        text-align: justify;
+        margin-top: -200px;
+        margin-left: 635px;
+    }
+
+    .desc6{
+        color: black;
+        width: 180px;
+        text-align: justify;
+        margin-top: -180px;
+        margin-left: 1045px;
+    }
